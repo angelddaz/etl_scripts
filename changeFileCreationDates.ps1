@@ -1,0 +1,1 @@
+Get-ChildItem \\filelocation\filname.zip | foreach { $_.CreationTime = get-date "M/DD/YYYY 12:00 am"; $_.LastWriteTime = (get-date).AddDays(-1)}
