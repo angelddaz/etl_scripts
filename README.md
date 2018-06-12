@@ -1,5 +1,5 @@
 # ETL scripts from a single internship
-These are PowerShell scripts I have written for file management and manipulation
+These are PowerShell scripts and C# script I wrote for a single internship, ETL workflow.
 
 These scripts are for file management: changing the file creation date
 and deleting files that are older than a certain amount of days before
